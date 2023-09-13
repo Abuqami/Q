@@ -1,4 +1,4 @@
-# Lahjah [](language,png)
+# Lahjah 
 # Team Members
 | Name | Role |
 |---|---|
